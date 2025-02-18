@@ -13,7 +13,7 @@ body {
 
 h1 {
     font-family: 'Shrikhand', display;
-    font-size: 3em;
+    font-size: 10vw;
     text-shadow: 5px 5px pink;
     letter-spacing: 0.1em;
     text-align: center;
@@ -37,16 +37,13 @@ p {
     border-radius: 20px;
     box-shadow: 5px 5px greenyellow;
     padding: 5%;
-    position: relative;
 }
 
 .stamp {
-    position: absolute;
-    top: -400px;
     font-family: 'Danfo', display;
     color: greenyellow;
     font-size: 2em;
-    transform: rotate(-45deg);
+    transform: rotate(-10deg);
     text-shadow: 5px 5px pink;
     text-align: center;
 }
